@@ -1,1 +1,4 @@
-# Git_Remote_Lab2
+# Git\_Remote\_Lab2
+
+This line is added by collaborator 2.
+
