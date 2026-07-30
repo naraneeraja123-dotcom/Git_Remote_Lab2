@@ -1,4 +1,4 @@
-# Git\_Remote\_Lab2
+Git_Remote_Lab2
 
-This line is added by COLLABORATOR
-
+This line is added by OWNER.
+This line is added by COLLABORATOR.
